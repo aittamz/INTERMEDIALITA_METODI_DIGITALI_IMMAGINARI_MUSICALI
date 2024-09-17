@@ -1,0 +1,4 @@
+nodedef>name VARCHAR,label VARCHAR
+UCKUzdt2sELyxd6mz-bAx3bA,Rai
+edgedef>node1 VARCHAR,node2 VARCHAR,weight INT,directed BOOLEAN
+UCKUzdt2sELyxd6mz-bAx3bA,UCKUzdt2sELyxd6mz-bAx3bA,372,false
